@@ -9,7 +9,7 @@
     "restart": "pm2 restart vajira-md"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18.18.0 <21.0.0"
   },
   "dependencies": {
     "@fizzxydev/baileys-pro": "^1.0.1",
