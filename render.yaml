@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: kango-pair-site
+    name: king-sandesh-pair-site
     env: docker
     plan: free
     branch: main
